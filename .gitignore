@@ -1,2 +1,5 @@
 .DS_Store
 .nvmrc
+.ruby-version
+package-lock.json
+node_modules
